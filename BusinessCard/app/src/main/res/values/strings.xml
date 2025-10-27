@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name">Tara</string>
+    <string name="title">Android Developer Extraordinaire</string>
+    <string name="phone">+1 253 247 344</string>
+    <string name="handle">\@TaraPace</string>
+    <string name="email">tara.pace@pace.com</string>
+</resources>
+
