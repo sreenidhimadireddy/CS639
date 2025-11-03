@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CircleApp</string>
+    <string name="developer_name"> Sreenidhi </string>
+    <string name="developed_by">Developed by %1$s</string>
+    <string name="radius_hint">Enter radius (r)</string>
+    <string name="formula_label">Formula: Area = π × r²</string>
+    <string name="calculate_button">Calculate Area</string>
+    <string name="result_label">Area:</string>
+    <string name="error_empty">Please enter a radius value</string>
+    <string name="error_invalid">Please enter a valid number</string>
+    <string name="error_negative">Radius must be greater than 0</string>
+    <string name="circle_image_desc">Circle illustration</string>
+</resources>
