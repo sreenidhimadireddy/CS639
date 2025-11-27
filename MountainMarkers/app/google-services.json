@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "288277161352",
+    "project_id": "mountain-markers-dbb08",
+    "storage_bucket": "mountain-markers-dbb08.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288277161352:android:9a203fa6d55fe1ee01c63d",
+        "android_client_info": {
+          "package_name": "com.example.mountainmarkers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyHF780Yuk4bPrJaDFf-DljUNmxRyWLOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
